@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "axios": "^1.6.2",
+    "chokidar": "^3.5.3",
+    "date-fns": "^2.30.0",
+    "discord.js": "^13.0.0",
+    "dotenv": "^16.3.1"
+  }
+}
