@@ -36,7 +36,7 @@
  - Prefix for commands is `/`. Example: `/ban @username`.
 
 ## Contributing
- - If you'd like to contribute to GenBot, feel free to submit a pull request with your changes or open an issue for any bugs or feature requests.
+ - If you'd like to contribute to DiscordGenBot, feel free to submit a pull request with your changes or open an issue for any bugs or feature requests.
 
 ## License
  - This project is free and open source. It currently doesn't have a specific license. Feel free to use and modify the code as needed.
