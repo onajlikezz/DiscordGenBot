@@ -1,3 +1,9 @@
+# Informations
+<p>Completely free Generator Bot for you discord server, with emojis, moderator commands and fun commands. The bot is still under development!</p>
+<p align="center">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCPGq5aI894K7cr0xvu0vJZQ?logo=YouTube&logoColor=red&style=flat-square">
+  <img alt="Discord" src="https://img.shields.io/discord/1196052745979957278?logo=discord&style=flat-square">
+</p>
 ## Features
 
 - **Generator Commands**
