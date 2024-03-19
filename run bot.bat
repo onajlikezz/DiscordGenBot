@@ -1,5 +1,5 @@
 @echo off
-title Nightliight
+title OnajLikezzIsAutismKing
+:nigga
 node index.js
-pause
-loop
+goto nigga
