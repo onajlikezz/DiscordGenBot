@@ -33,7 +33,7 @@
    ```bash
    git clone https://github.com/your-username/GenBot.git
    
-- **2. Rename the .env.example file to .env.**
+- **2. Rename the .env.example file to .env**
 - **3. Set up your Discord bot token in the .env file.**
 - **4. Run the bot:**
   - On Windows, you can use "run bot.bat" to start the bot.
